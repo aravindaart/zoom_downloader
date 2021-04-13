@@ -12,6 +12,7 @@ document.getElementById("zoomDownloader").addEventListener('click', () => {
         aTag.style.padding = "1rem";
         var appDiv = document.getElementById('app');
         appDiv.appendChild(aTag);
+        aTag.click();
         return "Use CLICK ME to download";
     }
 

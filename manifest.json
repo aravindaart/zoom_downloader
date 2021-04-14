@@ -3,7 +3,7 @@
   
     "name": "Zoom Recording Downloader",
     "description": "This extension is to download zoom recordings",
-    "version": "1.0",
+    "version": "1.1",
   
     "browser_action": {
      "default_icon": "icon.png",
